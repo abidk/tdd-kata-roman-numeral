@@ -1,11 +1,7 @@
 tdd-kata-roman-numeral
 ======================
 
-The problem
-
-In whatever language you prefer, write a class that implements the following 
-
-interface (example given in Java):
+In whatever language you prefer, write a class that implements the following interface (example given in Java):
 
 ```
 public interface RomanNumeralGenerator {
